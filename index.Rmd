@@ -1,6 +1,6 @@
 ---
-title: "Aditya Singh's Resume"
-author: Aditya Singh
+title: "Jacob Arie's Resume"
+author: Jacob Arie van Diermen
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -12,14 +12,17 @@ knit: pagedown::chrome_print
 
 # Aside
 
-![Aditya Singh](assets/profile.jpg){width="80%"}
+![Jacob Arie](assets/jacob_arie_cv.png){width="80%"}
 
 ## Contact Info {#contact}
 
--   <i class="fa fa-envelope"></i> [aditya.singh\@ki.se](mailto:aditya.singh@ki.se){.email}
--   <i class="fa fa-globe"></i> [aditya-singh](https://staff.ki.se/people/aditya-singh)
--   <i class="fa fa-github"></i> [github.com/aditya-88](https://github.com/aditya-88)
--   <i class="fa fa-phone"></i> +46 793 539 123
+-   <i class="fa fa-envelope"></i> [jacob.arie.van.diermen\@ki.se](mailto:jacob.arie.van.diermen@ki.se){.email}
+-   <i class="fa fa-envelope"></i> [jarivandiermen\@hotmail.com](mailto:jarivandiermen@hotmail.com){.email}
+-   <i class="fa fa-globe"></i> [Jacob-Arie-van-Diermen-KI](https://ki.se/en/people/jacob-arie-van-diermen)
+-   <i class="fa fa-globe"></i> [Jacob-Arie-van-Diermen](https://ki.se/en/people/jacob-arie-van-diermen)
+-   <i class="fa fa-github"></i> [github.com/Suirotras](https://github.com/Suirotras)
+-   <i class="fa-brands fa-linkedin"></i> [linkedin.com/in/jari-van-diermen](https://www.linkedin.com/in/jari-van-diermen-99a49712a/)
+-   <i class="fa fa-phone"></i> +31 653 270 827
 -   For more information, please contact me via email.
 
 ## Skills {#skills}
