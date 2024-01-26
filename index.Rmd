@@ -20,8 +20,8 @@ knit: pagedown::chrome_print
 - <i class="fa fa-envelope"></i> [jarivandiermen\@hotmail.com](mailto:jarivandiermen@hotmail.com){.email}
 - <i class="fa fa-globe"></i> [Jacob-Arie-van-Diermen-KI](https://ki.se/en/people/jacob-arie-van-diermen)
 - <i class="fa fa-github"></i> [github.com/Suirotras](https://github.com/Suirotras)
-- <i class="fa-brands fa-docker"></i> [hub.docker.com/u/jarivdiermen](https://hub.docker.com/u/jarivdiermen)
-- <i class="fa-brands fa-linkedin"></i> [linkedin.com/in/jari-van-diermen](https://www.linkedin.com/in/jari-van-diermen-99a49712a/)
+- <i class="fa-brands fa-docker"></i> [jarivdiermen](https://hub.docker.com/u/jarivdiermen)
+- <i class="fa-brands fa-linkedin"></i> [jari-van-diermen](https://www.linkedin.com/in/jari-van-diermen-99a49712a/)
 - <i class="fa fa-phone"></i> +31 653 270 827
 - For more information, please contact me via email.
 
@@ -136,10 +136,7 @@ Utrecht, The Netherlands
 <br>
 
 Teaching assistant for the course `Kwantitatieve biologie (B-B1KWBI20)`,
-a quantitative biology course for first year biology students. The course
-consists of a series of lectures and practicals in which students learn
-to use R for data analysis and statistics. As a teaching assistant, I supervised
-and the students during the practicals sessions.
+a quantitative biology course for first year biology students.
 
 ### Research intern
 
@@ -150,18 +147,6 @@ Solna, Sweden
 2023/03 - 2022/05
 
 <br>
-
-In my second year of my master ‘Molecular and Cellular life sciences’, I went to Stockholm for a 7 
-month internship position at Karolinska institute. This internship was part of my bioinformatics 
-minor profile. At the Center for molecular medicine (CMM), and under the supervision of
-Sebastian Lewandowski, I performed a comparative genomics analysis which identified
-genes under positive selection in the regenerative African spiny mice (Acomys cahirinus), and attempting
-to link these genes to the regenerative phenotype. During this analysis, I build an independent analysis
-pipeline from scratch, using available software and functions in R, python and bash. This analysis pipeline
-was then executed on a large amount of genomics data, facilitated by a High performance computing (HPC) cluster.
-I see this internship as a big part in my development as a bioinformatician.
-
-Skills aqcuired:
 
 - Bioinformatic analysis
 - Comparative genomics
@@ -189,20 +174,6 @@ Utrecht, The Netherlands
 
 <br>
 
-In my first year of the master ‘Molecular and Cellular life sciences’, I had an 9-month internship in 
-Anna Akhmanova’s Lab which specializes in microtubule dynamics, under the supervision of 
-Cyntha van den Berg. During these 9 months, I investigated the characteristics of CSPP1, a ciliary and 
-centrosomal protein, and its effect on microtubule dynamics. Using immunofluorescence 
-experiments and fluorescence microscopy, I tried to understand the effect of different domains of 
-this protein on microtubule dynamics. For example, one domain of CSPP1 is important for 
-microtubule binding, while another domain is crucial for microtubule stabilization. Furthermore, 
-using Expansion microscopy I tried to investigate whether this protein is a microtubule inner 
-protein (MIP), meaning that it binds to the inside of the microtubule. Finally, using live cell 
-imaging and photoactivatable GFP, I examined the live-recruitment of this protein to the 
-microtubules.
-
-Skills acquired:
-
 - Extensive cell culture with mammalian adherent cell lines (COS7, RPE, HeLa)
 - Molecular cloning with SNAPtag, LEXY, PA-GFP, EB3 constructs
 - Transfections
@@ -219,21 +190,6 @@ Skills acquired:
 
 ## <i class="fa-solid fa-box-archive"></i> Additional skills {data-icon=NULL}
 
-### Programming languages
-
-N/A
-
-N/A
-
-<br>
-
-- R (Experience in base R and a large number of R packages)
-- Python (Experience in base python and popular modules like numpy, pandas,
-matplotlib and machine learning modules like scikit-learn). Also experience with
-python single cell libraries like scanpy and anndata.
-- Bash (Experience in writing bash scripts for bioinformatics pipelines)
-- SLURM (Performing a large number of analyses using SLURM on HPC environments)
-
 ### Software skills
 
 N/A
@@ -243,23 +199,17 @@ N/A
 - STRING network analysis
 - gene ontology analysis
 - Cytoscape
-- Inkscape
 - Docker
 - Singularity
 - Git
 - Github
 - Rsudio
 - Anaconda
-- Visual studio code
-- Linux (Ubuntu, Pop!_OS)
 - HyPhy (aBSREL, MEME)
 - PAML codeml
-- Polyphen-2
-- MS word, Excel, PowerPoint
 - GraphPad Prism 8
 - Fiji/ ImageJ
 - Biorender
-- Reference managers (E.g. Mendeley, Zotero)
 
 ## Talks and conferences {data-icon="person-chalkboard"}
 
