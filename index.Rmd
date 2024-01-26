@@ -48,6 +48,22 @@ knit: pagedown::chrome_print
 
 ### [Karolinska Institutet](https://ki.se/en/startpage)
 
+## Profile {data-icon="user"}
+
+### Personal profile
+
+N/A
+
+N/A
+
+N/A
+
+I am an enthusiastic aspiring researcher that wants to further my career in the
+field of bioinformatics. My ambition is to analyze large biological datasets
+with the computational skills developed during my bachelor’s and master’s
+education to answer exciting new biological questions. I aspire to develop my
+skills in analyzing, visualizing and interpreting these large datasets, which is 
+helped by my extensive biological background
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
