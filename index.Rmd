@@ -221,7 +221,7 @@ Djurhamn, Sweden
 
 2022
 
-**Aditya Singh**, Sebastian A. Lewandowski, Katarina Tengvall, Michael Dong,
+**Jacob A. van Diermen**, Sebastian A. Lewandowski, Katarina Tengvall, Michael Dong,
 Kerstin Lindblad-Toh
 
 ## Recognition {data-icon="award"}
