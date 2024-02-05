@@ -58,12 +58,13 @@ N/A
 
 N/A
 
-I am an enthusiastic aspiring researcher that wants to further my career in the
-field of bioinformatics. My ambition is to analyze large biological datasets
-with the computational skills developed during my bachelor’s and master’s
-education to answer exciting new biological questions. I aspire to develop my
-skills in analyzing, visualizing and interpreting these large datasets, which is 
-helped by my extensive biological background
+I am an enthusiastic aspiring researcher that is passionate about solving
+complex biological questions. To pursue this goal, I want to use new
+computational tools and large-scale omics techniques. Currently developed omics
+techniques allows us to answer exciting biological questions that were out of
+reach not too long ago. Furthermore, I aspire to further develop my
+skills in analyzing, visualizing and interpreting these large omics datasets,
+which is helped by my extensive biological background.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -114,16 +115,18 @@ Current - 2023/07
 
 <br>
 
-- Continuation of the research project as a research assistant
-- Preparing and writing a manuscript for publication
-- Presenting data at lab meetings
 - Creating Docker and Singularity containers for the positive selection
 pipeline
 - Working with positive selection tools like HyPhy MEME. HyPhy aBSREL and
 PAML codeml
 - Experience working with the Linux operating system (Ubuntu, Pop!_OS)
-- Writing parallelized bash and R scripts for the positive selection pipeline
-- Accessing and working with publicly available single-cell datasets form GTEX
+- Writing paralleled bash and R scripts for the positive selection pipeline
+- Accessing and working with publicly available single-cell datasets from GTEX
+- Preparing and writing a manuscript for publication
+- Presenting data at lab meetings
+- Preparing and writing a manuscript for publication
+- Continuation of the research project as a research assistant
+
 
 ### Teaching assistant
 
@@ -148,20 +151,18 @@ Solna, Sweden
 
 <br>
 
-- Bioinformatic analysis
-- Comparative genomics
-- Working with positive selection tools like HyPhy MEME and HyPhy aBSREL
+- Construction of a custom positive selection analysis pipeline for a large number of
+multiple sequence alignments
+- Working with positive selection tools like HyPhy MEME, HyPhy aBSREL and PAML codeml
+- Experience with High performance computing in a SLURM environment
+- Adept programming experience in R, Python and bash
+- Experience with Git and github
 - Working with genomics data
 - Gene ontology analyses
 - Cytoscape and STRINGdb network analysis
-- Adept programming experience in R, Python and bash
-- Experience with High performance computing in a SLURM environment
-- Construction of a custom positive selection analysis pipeline for a large number of
-multiple sequence alignments
-- Experience with Git and github
+- Creation of data visualizations using R
 - Presenting and writing skills
 - Creation of a scientific poster for a conference
-- Creation of data visualizations using R
 
 ### Research intern
 
@@ -196,20 +197,21 @@ N/A
 
 N/A
 
-- STRING network analysis
-- gene ontology analysis
-- Cytoscape
 - Docker
 - Singularity
 - Git
 - Github
 - Rsudio
+- R
+- Python
+- Bash
 - Anaconda
 - HyPhy (aBSREL, MEME)
 - PAML codeml
 - GraphPad Prism 8
 - Fiji/ ImageJ
 - Biorender
+- Cytoscape
 
 ## Talks and conferences {data-icon="person-chalkboard"}
 
