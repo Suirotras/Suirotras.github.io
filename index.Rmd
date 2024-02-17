@@ -262,7 +262,7 @@ Utrecht, The Netherlands
 
 2020
 
-## <i class="fa-solid fa-person-chalkboard"></i> Grades MSc Molecular and Cellular life sciences (MCLS) {data-icon=NULL .page-break-before}
+## <i class="fa-solid fa-person-chalkboard"></i> MSc Molecular and Cellular life sciences (MCLS) courses {data-icon=NULL .page-break-before}
 
 ### Minor Research Project (GSLS-MINRP)
 
@@ -374,7 +374,7 @@ N/A
 
 *8.6/10*
 
-## <i class="fa-solid fa-person-chalkboard"></i> Grades BSc in Biology {data-icon=NULL}
+## <i class="fa-solid fa-person-chalkboard"></i> BSc in Biology courses {data-icon=NULL}
 
 ### bachelor thesis Cell biology (B-B3ONSCR)
 
