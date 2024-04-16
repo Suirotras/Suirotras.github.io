@@ -30,9 +30,7 @@ knit: pagedown::chrome_print
 
 ## Contact Info {#contact}
 
-- <i class="fa fa-envelope"></i> [jacob.arie.van.diermen\@ki.se](mailto:jacob.arie.van.diermen@ki.se){.email}
 - <i class="fa fa-envelope"></i> [jarivandiermen\@hotmail.com](mailto:jarivandiermen@hotmail.com){.email}
-- <i class="fa fa-globe"></i> [Jacob-Arie-van-Diermen-KI](https://ki.se/en/people/jacob-arie-van-diermen)
 - <i class="fa fa-github"></i> [github.com/Suirotras](https://github.com/Suirotras)
 - <i class="fa-brands fa-docker"></i> [jarivdiermen](https://hub.docker.com/u/jarivdiermen)
 - <i class="fa-brands fa-linkedin"></i> [jari-van-diermen](https://www.linkedin.com/in/jari-van-diermen-99a49712a/)
