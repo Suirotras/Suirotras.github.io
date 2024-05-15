@@ -51,6 +51,7 @@ knit: pagedown::chrome_print
 - <i class="fa-solid fa-circle"></i> Python
 - <i class="fa-solid fa-circle"></i> Bash
 - <i class="fa-solid fa-circle"></i> SLURM
+- <i class="fa-solid fa-circle"></i> Nextflow
 
 # Main
 
@@ -127,6 +128,7 @@ Solna, Sweden
 
 - Creating Docker and Singularity containers for the positive selection
 pipeline
+- Using Nextflow to create a portable computational pipeline
 - Working with positive selection tools like HyPhy MEME. HyPhy aBSREL and
 PAML codeml
 - Experience working with the Linux operating system (Ubuntu, Pop!_OS)
@@ -209,6 +211,7 @@ N/A
 
 - Docker
 - Singularity
+- Nextflow
 - Git
 - Github
 - Rsudio
